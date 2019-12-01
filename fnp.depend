@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1574941702 source:c:\users\evans d\desktop\projetfinal\projetgg4\nvprojet4\fnp\fnp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<errno.h>
+	"struct_et_prototype.h"
+
+1574940085 c:\users\evans d\desktop\projetfinal\projetgg4\nvprojet4\fnp\fnp\struct_et_prototype.h
+
+1574941850 source:c:\users\evans d\desktop\projetfinal\projetgg4\nvprojet4\fnp\fnp\struct_et_prototype.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<errno.h>
+	"struct_et_prototype.h"
+
